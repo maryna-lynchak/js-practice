@@ -9,4 +9,7 @@
   "author": "",
   "license": "ISC",
   "description": ""
+  {
+    "chalk": "^4.1.2"
+  }
 }
