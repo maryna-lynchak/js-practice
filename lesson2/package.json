@@ -1,0 +1,16 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test:prod": "node main.js",
+    "test:stage": "echo 'Stage tests are running'"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
